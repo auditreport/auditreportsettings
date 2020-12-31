@@ -63,6 +63,7 @@
       <td>逻辑</td>
       <td>是</td>
       <td>否</td>
+      <td>否</td>
       <td></td>
    </tr>
    <tr>
