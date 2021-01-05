@@ -5491,8 +5491,8 @@
       <td>租赁费</td>
       <td>水电费</td>
       <td>其他零星汇总</td>
-      <td></td>
-      <td></td>
+      <td>补贴款</td>
+      <td>押金</td>
       <td></td>
       <td></td>
       <td></td>
