@@ -7820,10 +7820,10 @@
       <td>折旧费</td>
       <td>职工薪酬</td>
       <td>咨询服务费</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>保管费</td>
+      <td>运杂费</td>
+      <td>商品损耗</td>
+      <td>收购费用</td>
       <td></td>
       <td></td>
       <td></td>
