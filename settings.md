@@ -7158,9 +7158,9 @@
       <td>粮食收入</td>
       <td>检测收入</td>
       <td>维护费收入</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>水电费</td>
+      <td>物业服务</td>
+      <td>食堂收入</td>
       <td></td>
       <td></td>
       <td></td>
