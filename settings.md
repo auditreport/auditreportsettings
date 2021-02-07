@@ -16106,8 +16106,8 @@
       <td>租金</td>
       <td>货款</td>
       <td>房款</td>
-      <td></td>
-      <td></td>
+      <td>入廊费</td>
+      <td>其他</td>
       <td></td>
       <td></td>
       <td></td>
