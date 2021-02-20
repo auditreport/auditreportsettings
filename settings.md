@@ -8003,11 +8003,11 @@
       <td>残疾人就业保证金</td>
       <td>租赁费</td>
       <td>水电费</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>通信费</td>
+      <td>汽车费用</td>
+      <td>招聘费</td>
+      <td>物业管理费</td>
+      <td>劳动保护费</td>
       <td></td>
       <td></td>
       <td></td>
