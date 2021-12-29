@@ -7164,30 +7164,30 @@
       <td>物资销售</td>
       <td>融资租赁收入</td>
       <td>其他收入</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>市场经营</td>
+      <td>房地产销售</td>
+      <td>进出口贸易</td>
+      <td>酒店服务</td>
+      <td>售水服务</td>
+      <td>展览广告</td>
+      <td>污水处理</td>
+      <td>场地费</td>
+      <td>工程安装</td>
+      <td>粮食销售</td>
+      <td>保安服务</td>
+      <td>旅游业务</td>
+      <td>房屋租赁</td>
+      <td>检测业务</td>
+      <td>担保业务</td>
+      <td>电影票房</td>
+      <td>物业管理</td>
+      <td>交通运输</td>
+      <td>废旧物资销售</td>
+      <td>中介服务</td>
+      <td>港口服务</td>
+      <td>基础设施建设</td>
+      <td>代建服务</td>
+      <td>水利工程</td>
       <td></td>
       <td></td>
       <td></td>
