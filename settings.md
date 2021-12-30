@@ -6005,7 +6005,7 @@
       <td>其他</td>
       <td>消费税</td>
       <td>印花税</td>
-      <td></td>
+      <td>营业税</td>
       <td></td>
       <td></td>
       <td></td>
