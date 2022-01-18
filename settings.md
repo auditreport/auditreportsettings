@@ -3992,7 +3992,7 @@
       <td>商标权</td>
       <td>著作权</td>
       <td>特许权</td>
-      <td></td>
+      <td>PPP项目经营权</td>
       <td></td>
       <td></td>
       <td></td>
